@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="98c56dd5-dd61-49dc-9d3c-78902b326502" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/backend/bin/www" beforeDir="false" afterPath="$PROJECT_DIR$/app/backend/bin/www" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/backend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/frontend/functions/payments.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/frontend/functions/payments.service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/frontend/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/frontend/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/frontend/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/frontend/src/components/About/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/frontend/src/components/About/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/frontend/src/App.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,28 +17,50 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/backend/package-lock.json">
+        <entry file="file://$PROJECT_DIR$/app/backend/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="32" lean-forward="true" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+            <state relative-caret-position="374">
+              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/backend/app.js">
+        <entry file="file://$PROJECT_DIR$/app/backend/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            <state relative-caret-position="17">
+              <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/backend/bin/www">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="7" column="59" lean-forward="true" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+            <state relative-caret-position="-204">
+              <caret column="3" selection-start-column="3" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/frontend/src/components/Admin/index.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/frontend/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="e#114#166#0" expanded="true" />
+                <element signature="e#252#271#0" expanded="true" />
+                <element signature="e#467#524#0" expanded="true" />
+                <element signature="e#1011#1069#0" expanded="true" />
+                <element signature="e#1398#1457#0" expanded="true" />
+                <element signature="e#1582#1629#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -62,12 +77,12 @@
         <option value="$PROJECT_DIR$/app/frontend/functions/payments.service.js" />
         <option value="$PROJECT_DIR$/app/frontend/public/index.html" />
         <option value="$PROJECT_DIR$/app/frontend/public/manifest.json" />
-        <option value="$PROJECT_DIR$/app/frontend/src/App.js" />
         <option value="$PROJECT_DIR$/app/frontend/package.json" />
         <option value="$PROJECT_DIR$/app/frontend/src/components/About/About.js" />
         <option value="$PROJECT_DIR$/app/backend/package.json" />
         <option value="$PROJECT_DIR$/app/backend/package-lock.json" />
         <option value="$PROJECT_DIR$/app/backend/bin/www" />
+        <option value="$PROJECT_DIR$/app/frontend/src/App.js" />
       </list>
     </option>
   </component>
@@ -112,14 +127,41 @@
               <item name="Kish Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Kish Collection" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Kish Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Kish Collection" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kish Collection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kish Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kish Collection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kish Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Cart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kish Collection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kish Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Cart" type="462c0819:PsiDirectoryNode" />
+              <item name="ViewCart" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -161,22 +203,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604213482966</updated>
-      <workItem from="1604213484194" duration="6235000" />
+      <workItem from="1604213484194" duration="8243000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6235000" />
+    <option name="totallyTimeSpent" value="8243000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="115" y="7" width="1251" height="745" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="DB Browser" />
       <window_info id="Project Explorer" />
       <window_info id="Job Explorer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24937028" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24937028" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Console" />
       <window_info anchor="bottom" id="DB Execution Console" />
@@ -184,7 +225,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="GraphQL" />
-      <window_info anchor="bottom" id="Terminal" weight="0.77287585" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.77287585" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -203,32 +244,8 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/frontend/src/index.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/frontend/src/firebase.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/frontend/src/App.test.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/frontend/src/components/Cart/ViewCart/index.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/frontend/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2068">
-          <caret line="58" column="45" lean-forward="true" selection-start-line="58" selection-start-column="45" selection-end-line="58" selection-end-column="45" />
-          <folding>
-            <element signature="e#114#166#0" expanded="true" />
-            <element signature="e#252#271#0" expanded="true" />
-            <element signature="e#467#524#0" expanded="true" />
-            <element signature="e#1011#1069#0" expanded="true" />
-            <element signature="e#1401#1460#0" expanded="true" />
-            <element signature="e#1582#1629#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/frontend/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -342,9 +359,6 @@
     <entry file="file://$PROJECT_DIR$/app/frontend/src/components/About/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/frontend/src/components/Admin/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/frontend/src/components/Blog/AddPost/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -418,10 +432,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/backend/package.json">
+    <entry file="file://$PROJECT_DIR$/app/backend/views/error.pug">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/backend/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/backend/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="32" lean-forward="true" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/backend/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -432,24 +459,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/backend/routes/index.js">
+    <entry file="file://$PROJECT_DIR$/app/backend/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="374">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/backend/app.js">
+    <entry file="file://$PROJECT_DIR$/app/backend/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        <state relative-caret-position="17">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/backend/bin/www">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="7" column="59" lean-forward="true" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+        <state relative-caret-position="-204">
+          <caret column="3" selection-start-column="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/frontend/src/components/Admin/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/frontend/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#114#166#0" expanded="true" />
+            <element signature="e#252#271#0" expanded="true" />
+            <element signature="e#467#524#0" expanded="true" />
+            <element signature="e#1011#1069#0" expanded="true" />
+            <element signature="e#1398#1457#0" expanded="true" />
+            <element signature="e#1582#1629#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

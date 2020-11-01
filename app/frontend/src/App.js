@@ -35,14 +35,14 @@ import UserProducts from "./components/Products/UserProducts";
 import ProductDetails from "./components/Products/ProductDetails";
 import EditProduct from "./components/Products/EditProduct";
 
-import ViewCart from "./components/Cart/ViewCart/ViewCart";
+import ViewCart from "./components/Cart/ViewCart/index";
 
 // Users components
 import EditProfile from "./components/Profile/EditProfile";
 import Profile from "./components/Profile/ViewProfile";
 // import UserProfile    from"./components/Profile/UserProfile";
 import Dashboard from "./components/Dashboard";
-import Admin from "./components/Admin/Admin";
+import Admin from "./components/Admin/index";
 
 // Blog components
 // import Posts          from "./components/Blog/ViewPosts";
