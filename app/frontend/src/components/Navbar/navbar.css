@@ -1,0 +1,73 @@
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-self: space-between;
+}
+
+#display-pic {
+  margin-top: 15px;
+}
+
+.navbar {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  font-size: 0.7em;
+  font-weight: 600;
+  max-width: 100%;
+}
+
+.logged-out, .logged-in {
+  display: none;
+}
+
+.navbar > li {
+  margin: 0 10px;
+}
+
+.navbar > li > a {
+  text-decoration: none;
+  color: black;
+}
+
+.navbar > li > a:hover {
+  color: #76ff03;
+}
+
+.selected-link {
+  color: #ff3d00;
+}
+
+.nav-icon {
+  margin-right: 2px;
+  margin-bottom: -3px;
+}
+
+.cart {
+  display: flex;
+  flex-direction: column;
+  justify-self: space-around;
+  align-items: center;
+  margin-top: 5px;
+  margin-left: 40px;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .navbar {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font-size: 1.1em;
+  }
+
+  .navbar > li {
+    margin: 5px auto;
+    margin-left: -40px;
+  }
+
+  #display-pic {
+    text-align: center;
+  }
+}
