@@ -1,4 +1,4 @@
-// Object to hold all FarmCart payments operations.
+// Object to hold all app's payments operations.
 const FarmCartPayments = {};
 
 const FarmCartAPIKeyForAT = process.env.FarmCart_AT_APIKey;
